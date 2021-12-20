@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="librabobus" uuid="3a235daf-0e7b-40c1-8a66-f51fe869da44">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\4qrs1sem\TESTING_BMSTU\Amebus\librabobus.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
